@@ -1,0 +1,19 @@
+{
+  "name": "getting-started-node",
+  "version": "1.0.0",
+  "description": "Getting Started in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonPaivaS/Getting-Started-in-Node.js.git"
+  },
+  "author": "Anderson Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonPaivaS/Getting-Started-in-Node.js/issues"
+  },
+  "homepage": "https://github.com/AndersonPaivaS/Getting-Started-in-Node.js#readme"
+}
