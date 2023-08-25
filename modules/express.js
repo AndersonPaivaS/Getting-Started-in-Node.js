@@ -6,6 +6,12 @@ app.use(express.json())
 
 const port = 8080
 
+// Middleware: são funções que são execultadas antes de qualquer requisição! 
+/*app.use((req, res, next) => {
+    console.log(req.body)
+    next()
+})*/
+
 
 app.get("/home", (req, res) => {
     res.contentType('text/html')
